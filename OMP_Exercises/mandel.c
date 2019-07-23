@@ -8,7 +8,7 @@
 **  USAGE:   Program runs without input ... just run the executable
 **            
 **  HISTORY: Written:  (Mark Bull, August 2011).
-**           Changed "comples" to "d_comples" to avoid collsion with 
+**           Changed "comples" to "d_complex" to avoid collsion with 
 **           math.h complex type (Tim Mattson, September 2011)
 */
 
